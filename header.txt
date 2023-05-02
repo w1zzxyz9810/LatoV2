@@ -1,0 +1,12 @@
+accept-ranges: none
+access-control-allow-origin: *, *
+cache-control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+content-type: application/json; charset=utf-8
+date: Thu, 12 Dec 2019 13:56:11 GMT
+expires: Mon, 20 Aug 1969 09:23:00 GMT
+last-modified: Thu, 12 Dec 2019 13:56:09 GMT
+pragma: no-cache
+server: fbs
+status: 200
+x-hw: 1576158968.cds037.ma1.hn,1576158968.cds030.ma1.sc,1576158971.cdn2-redis02-cdg1.stackpath.systems.-.wx,1576158971.cds030.ma1.p
+x-powered-by: PHP/7.0.33
